@@ -1,48 +1,57 @@
 # L-02: Variables, Data Types & Operators
 
-## 📚 Concepts Covered
-1. **Variables** - Declaration & Initialization
-2. **Data Types** - `int`, `float`, `double`, `char`, `bool`
-3. **Type Conversion** - Implicit Type Conversion
-4. **Type Casting** - Explicit Type Casting
-5. **Input in C++** - Using `cin` object
-6. **Operators in C++**
-   - Arithmetic Operators: `+`, `-`, `*`, `/`, `%`
-   - Relational Operators: `>`, `<`, `>=`, `<=`, `==`, `!=`
-   - Logical Operators: `||`, `&&`, `!`
-   - Unary Operators: `++`, `--` (Pre & Post)
-7. **Practice Problems** - Sum of 2 Numbers, Calculator 5 in 1
+## ⚡ Quick Revision Notes
 
-## 📁 Code Files
+| Concept | Key Point | Code Example |
+| --- | --- | --- |
+| **Variables** | Data store karne ke containers | `int age = 25;` |
+| **Data Types** | `int`, `float`, `double`, `char`, `bool` | `char grade = 'A';` |
+| **sizeof()** | Bytes me size batata hai | `sizeof(int)` → 4 |
+| **Implicit Conversion** | Chote → Bade type, automatically | `int` → `double` |
+| **Explicit Casting** | Bade → Chote type, manually | `(int)100.99` → 100 |
+| **cin** | User se input lene ke liye | `cin >> age;` |
+| **Arithmetic** | `+`, `-`, `*`, `/`, `%` | `5 / 2` → 2 |
+| **Relational** | `>`, `<`, `>=`, `<=`, `==`, `!=` | `a > b` → 1 or 0 |
+| **Logical** | `||`, `&&`, `!` | `true && false` → 0 |
+| **Post ++** | Pehle use karo, baad me badhao | `int b = a++;` |
+| **Pre ++** | Pehle badhao, baad me use karo | `int b = ++a;` |
+| **Typecast in Division** | Correct answer ke liye | `a / (double)b` |
 
-| File Name | Description |
-| --- | --- |
-| `codes/L02_datatypes.cpp` | Data Types in C++ with size using `sizeof()` |
-| `codes/L02_type_conversion_implicit.cpp` | Implicit Type Conversion example |
-| `codes/L02_type_casting_explicit.cpp` | Explicit Type Casting example |
-| `codes/L02_input.cpp` | Taking user input using `cin` |
-| `codes/L02_operators_arithmetic.cpp` | Arithmetic Operators example |
-| `codes/L02_operators_relational.cpp` | Relational Operators example |
-| `codes/L02_operators_logical.cpp` | Logical Operators example |
-| `codes/L02_operators_unary_post.cpp` | Post Increment `a++` example |
-| `codes/L02_operators_unary_pre.cpp` | Pre Increment `++a` example |
-| `codes/L02_sum_of_two_numbers.cpp` | Practice Problem 1: Sum of 2 Numbers |
-| `codes/L02_calculator.cpp` | Practice Problem 2: Calculator 5 in 1 |
+## 📁 All Code Files - Click to Open
 
-## 🖼️ Notes Images
+1. **[Data Types & sizeof()](./codes/L02_datatypes.cpp)** - `int`, `char`, `bool`, `float`, `double` ke examples
+2. **[Implicit Type Conversion](./codes/L02_type_conversion_implicit.cpp)** - `char` → `int`, `int` → `double` auto convert
+3. **[Explicit Type Casting](./codes/L02_type_casting_explicit.cpp)** - `double` → `int` manually convert
+4. **[User Input](./codes/L02_input.cpp)** - `cin` se input lena
+5. **[Arithmetic Operators](./codes/L02_operators_arithmetic.cpp)** - `+`, `-`, `*`, `/`, `%` sab ek saath
+6. **[Relational Operators](./codes/L02_operators_relational.cpp)** - `>`, `<`, `==`, `!=` ka output 1/0 me
+7. **[Logical Operators](./codes/L02_operators_logical.cpp)** - `||`, `&&`, `!` ke examples
+8. **[Post Increment](./codes/L02_operators_unary_post.cpp)** - `a++` pehle assign, baad me increase
+9. **[Pre Increment](./codes/L02_operators_unary_pre.cpp)** - `++a` pehle increase, baad me assign
+10. **[Sum of 2 Numbers](./codes/L02_sum_of_two_numbers.cpp)** - Practice Problem 1
+11. **[Calculator 5 in 1](./codes/L02_calculator.cpp)** - Practice Problem 2: +, -, *, /, %
 
-| Image Name | Topic |
-| --- | --- |
-| `images/L02_variables_datatypes_code.png` | Variables & Data Types |
-| `images/L02_type_casting.png` | Type Casting & Conversion |
-| `images/L02_input_cin.png` | Input using `cin` |
-| `images/L02_operators_arithmetic_relational.png` | Arithmetic & Relational Operators |
-| `images/L02_operators_logical_unary.png` | Logical & Unary Operators |
-| `images/L02_problems_1_to_2.png` | Practice Problems |
+## 🖼️ Notes Images - Fast Revision
 
-## ⚙️ How to Run
+### 1. Variables & Data Types
+![Variables & Data Types](./images/L02_variables_datatypes_code.png)
 
-To compile and run any code file:
+### 2. Type Casting & Conversion
+![Type Casting & Conversion](./images/L02_type_casting.png)
+
+### 3. Input using cin
+![Input using cin](./images/L02_input_cin.png)
+
+### 4. Arithmetic & Relational Operators
+![Arithmetic & Relational Operators](./images/L02_operators_arithmetic_relational.png)
+
+### 5. Logical & Unary Operators
+![Logical & Unary Operators](./images/L02_operators_logical_unary.png)
+
+### 6. Practice Problems
+![Practice Problems](./images/L02_problems_1_to_2.png)
+
+## ⚙️ How to Run Any File
 ```bash
-g++ codes/L02_calculator.cpp
-./a.out
+g++ codes/L02_calculator.cpp -o calculator
+./calculator
