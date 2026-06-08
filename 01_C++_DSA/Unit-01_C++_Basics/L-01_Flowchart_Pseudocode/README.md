@@ -18,3 +18,6 @@
 ## 🔧 Setup & Installation
 
 <img src="images/L01_installation_Intro.png" width="800">  
+
+---
+**Next:** [L-02: Variables, Data Types & Operators ](../L-02_Variables_DataTypes_Operators)
