@@ -1,8 +1,4 @@
-# L-01: Flowchart & Pseudocode
-
-## 🔧 Setup & Installation
-
-<img src="images/L01_installation_Intro.png" width="800">
+# L-01: Flowchart & Pseudocode  
 
 ## 📝 Theory: Flowcharts
 
@@ -18,3 +14,7 @@
 
 ### Problems 6a to 6d [Homework]
 <img src="images/L01_problems_6a_to_6d.png" width="800">
+
+## 🔧 Setup & Installation
+
+<img src="images/L01_installation_Intro.png" width="800">  
