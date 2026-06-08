@@ -19,17 +19,17 @@
 
 ## 📁 All Code Files
 
-1. **[Data Types & sizeof()](./codes/L02_datatypes.cpp)** - `int`, `char`, `bool`, `float`, `double` ke examples
-2. **[Implicit Type Conversion](./codes/L02_type_conversion_implicit.cpp)** - `char` → `int`, `int` → `double` auto convert
-3. **[Explicit Type Casting](./codes/L02_type_casting_explicit.cpp)** - `double` → `int` manually convert
-4. **[User Input](./codes/L02_input.cpp)** - `cin` se input lena
-5. **[Arithmetic Operators](./codes/L02_operators_arithmetic.cpp)** - `+`, `-`, `*`, `/`, `%` sab ek saath
-6. **[Relational Operators](./codes/L02_operators_relational.cpp)** - `>`, `<`, `==`, `!=` ka output 1/0 me
-7. **[Logical Operators](./codes/L02_operators_logical.cpp)** - `||`, `&&`, `!` ke examples
-8. **[Post Increment](./codes/L02_operators_unary_post.cpp)** - `a++` pehle assign, baad me increase
-9. **[Pre Increment](./codes/L02_operators_unary_pre.cpp)** - `++a` pehle increase, baad me assign
-10. **[Sum of 2 Numbers](./codes/L02_sum_of_two_numbers.cpp)** - Practice Problem 1
-11. **[Calculator 5 in 1](./codes/L02_calculator.cpp)** - Practice Problem 2: +, -, *, /, %
+1. **[Data Types & sizeof()](./codes/L02_01_datatypes.cpp)** - `int`, `char`, `bool`, `float`, `double` ke examples
+2. **[Implicit Type Conversion](./codes/L02_02_type_conversion_implicit.cpp)** - `char` → `int`, `int` → `double` auto convert
+3. **[Explicit Type Casting](./codes/L02_03_type_casting_explicit.cpp)** - `double` → `int` manually convert
+4. **[User Input](./codes/L02_04_input.cpp)** - `cin` se input lena
+5. **[Arithmetic Operators](./codes/L02_05_operators_arithmetic.cpp)** - `+`, `-`, `*`, `/`, `%` sab ek saath
+6. **[Relational Operators](./codes/L02_06_operators_relational.cpp)** - `>`, `<`, `==`, `!=` ka output 1/0 me
+7. **[Logical Operators](./codes/L02_07_operators_logical.cpp)** - `||`, `&&`, `!` ke examples
+8. **[Post Increment](./codes/L02_08_operators_unary_post.cpp)** - `a++` pehle assign, baad me increase
+9. **[Pre Increment](./codes/L02_09_operators_unary_pre.cpp)** - `++a` pehle increase, baad me assign
+10. **[Sum of 2 Numbers](./codes/L02_10_sum_of_two_numbers.cpp)** - Practice Problem 1
+11. **[Calculator 5 in 1](./codes/L02_11_calculator_5_in_1.cpp)** - Practice Problem 2: +, -, *, /, %
 
 ## 🖼️ Notes Images - Fast Revision
 
