@@ -17,7 +17,7 @@
 | **Pre ++** | Pehle badhao, baad me use karo | `int b = ++a;` |
 | **Typecast in Division** | Correct answer ke liye | `a / (double)b` |
 
-## 📁 All Code Files - Click to Open
+## 📁 All Code Files
 
 1. **[Data Types & sizeof()](./codes/L02_datatypes.cpp)** - `int`, `char`, `bool`, `float`, `double` ke examples
 2. **[Implicit Type Conversion](./codes/L02_type_conversion_implicit.cpp)** - `char` → `int`, `int` → `double` auto convert
@@ -51,7 +51,8 @@
 ### 6. Practice Problems
 ![Practice Problems](./images/L02_problems_1_to_2.png)
 
-## ⚙️ How to Run Any File
-```bash
-g++ codes/L02_calculator.cpp -o calculator
-./calculator
+## ⚙️ How to Run
+Code file se code copy karo, VS Code me paste karke Run karo.
+
+---
+**Next:** [L-03: Conditional Statements & Loops](../L-03_Conditional_Statements_Loops)
