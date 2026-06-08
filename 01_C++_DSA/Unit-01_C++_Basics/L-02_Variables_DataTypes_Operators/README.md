@@ -34,22 +34,22 @@
 ## 🖼️ Notes Images - Fast Revision
 
 ### 1. Variables & Data Types
-![Variables & Data Types](./images/L02_variables_datatypes_code.png)
+![Variables & Data Types](./images/L02_01_variables_datatypes_code.png)
 
 ### 2. Type Casting & Conversion
-![Type Casting & Conversion](./images/L02_type_casting.png)
+![Type Casting & Conversion](./images/L02_02_type_casting.png)
 
 ### 3. Input using cin
-![Input using cin](./images/L02_input_cin.png)
+![Input using cin](./images/L02_03_input_cin.png)
 
 ### 4. Arithmetic & Relational Operators
-![Arithmetic & Relational Operators](./images/L02_operators_arithmetic_relational.png)
+![Arithmetic & Relational Operators](./images/L02_04_operators_arithmetic_relational.png)
 
 ### 5. Logical & Unary Operators
-![Logical & Unary Operators](./images/L02_operators_logical_unary.png)
+![Logical & Unary Operators](./images/L02_05_operators_logical_unary.png)
 
 ### 6. Practice Problems
-![Practice Problems](./images/L02_problems_1_to_2.png)
+![Practice Problems](./images/L02_06_problems_1_to_2.png)
 
 ## ⚙️ How to Run
 Code file se code copy karo, VS Code me paste karke Run karo.
