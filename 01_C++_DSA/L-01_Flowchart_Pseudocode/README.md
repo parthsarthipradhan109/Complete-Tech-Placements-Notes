@@ -12,4 +12,4 @@
 ![Installation Intro](./images/L01_installation_Intro.png)
 
 ---
-**Next:** [L-02: Variables & Data Types](../L-02_Variables_Datatypes)
+**Next:** [L-02: Variables, Data Types & Operators](../L-02_Variables_DataTypes_Operators)  
