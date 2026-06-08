@@ -1,6 +1,6 @@
-# L-01: Flowchart & Pseudocode  
+# L-01: Flowchart, Pseudocode & Installation  
 
-## 📝 Theory: Flowcharts
+## 📝 Theory: Flowcharts & Pseudocode  
 
 <img src="images/L01_theory_flowchart.png" width="800">
 
