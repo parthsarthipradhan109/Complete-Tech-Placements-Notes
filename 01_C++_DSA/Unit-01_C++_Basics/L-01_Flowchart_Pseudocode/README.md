@@ -2,19 +2,19 @@
 
 ## 🔧 Setup & Installation
 
-![Installation Guide](images/L01_installation_Intro.png)
+<img src="images/L01_installation_Intro.png" width="800">
 
 ## 📝 Theory: Flowcharts
 
-![Flowchart Theory](images/L01_theory_flowchart.png)
+<img src="images/L01_theory_flowchart.png" width="800">
 
 ## 💻 Practice Problems
 
 ### Problems 1 & 2
-![Problems 1 to 2](images/L01_problems_1_to_2.png)
+<img src="images/L01_problems_1_to_2.png" width="800">
 
 ### Problems 3 to 5
-![Problems 3 to 5](01_C++_DSA/Unit-01_C++_Basics/L-01_Flowchart_Pseudocode/images/L01_problems_3_to_5.png)
+<img src="images/L01_problems_3_to_5.png" width="800">
 
 ### Problems 6a to 6d [Homework]
-![Problems 6a to 6d](images/L01_problems_6a_to_6d.png)
+<img src="images/L01_problems_6a_to_6d.png" width="800">
