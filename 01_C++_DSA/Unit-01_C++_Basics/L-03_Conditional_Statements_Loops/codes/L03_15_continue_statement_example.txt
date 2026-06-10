@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // 5 baccho ko toffee baanto
+    for(int baccha = 1; baccha <= 5; baccha++) {  // 5 bacche line me
+        
+        if(baccha == 3) {  // Baccha 3 bimar hai
+            cout << "Baccha 3 ko skip" << endl;
+            continue;  // Toffee mat do, skip
+        }
+        
+        cout << "Baccha " << baccha << " ko toffee mili" << endl;
+    }
+    
+    return 0;
+}
