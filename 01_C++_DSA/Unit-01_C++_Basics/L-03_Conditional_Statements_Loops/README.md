@@ -28,22 +28,23 @@
 7. **[While Loop 1 to 5](./codes/L03_07_while_loop_1_to_5.cpp)** - while loop se 1 se 5 print
 8. **[Infinite Loop Example](./codes/L03_08_infinite_loop_example.cpp)** - `while(true)` ka example
 9. **[Do While Loop](./codes/L03_09_do_while_loop.cpp)** - do-while se 1 se 5 print
-10. **[Sum 1 to n While Loop](./codes/L03_10_sum_odd_1_to_n_with_while_loop.cpp)** - while loop se odd numbers ka sum
+10. **[Sum Odd 1 to n While](./codes/L03_10_sum_odd_1_to_n_with_while_loop.cpp)** - while loop se odd numbers ka sum
 11. **[Sum Even 1 to n While](./codes/L03_11_sum_even_1_to_n_with_while_loop.cpp)** - while loop se even numbers ka sum
 12. **[Sum 1 to n While](./codes/L03_12_sum_1_to_n_with_while_loop.cpp)** - while loop se 1 to n sum
 13. **[For Loop 1 to 5](./codes/L03_13_for_loop_1_to_5.cpp)** - for loop ka basic example
-14. **[Break Statement Sum](./codes/L03_14_break_statement_sum.cpp)** - break se loop todna
-15. **[Sum Odd 1 to n v1](./codes/L03_15_sum_odd_1_to_n_v1.cpp)** - for loop `i+=2` se odd sum
-16. **[Sum Odd 1 to n v2](./codes/L03_16_sum_odd_1_to_n_v2.cpp)** - for loop + `if(i%2!=0)` se odd sum
-17. **[Sum Even 1 to n](./codes/L03_17_sum_even_1_to_n.cpp)** - for loop se even numbers ka sum
-18. **[Sum 1 to n](./codes/L03_18_sum_1_to_n.cpp)** - for loop se 1 to n sum
-19. **[Ternary Statement](./codes/L03_19_ternary_statement.cpp)** - `?:` operator se positive/negative
-20. **[Switch Statement](./codes/L03_20_switch_statement.cpp)** - switch-case se grade check
-21. **[Prime Composite](./codes/L03_21_prime_composite.cpp)** - Number prime hai ya composite
-22. **[Nested Loops](./codes/L03_22_nested_loops.cpp)** - Pattern printing stars se
-23. **[Sum Div by 3 For](./codes/L03_23_sum_div_by_3_for.cpp)** - for loop se 3 se divisible numbers ka sum
-24. **[Sum Div by 3 While](./codes/L03_24_sum_div_by_3_while.cpp)** - while loop se 3 se divisible numbers ka sum
-25. **[Factorial](./codes/L03_25_factorial.cpp)** - for loop se N ka factorial
+14. **[Break Statement Example](./codes/L03_14_break_statement_example.cpp)** - break se loop todna, chocolate wala example
+15. **[Continue Statement Example](./codes/L03_15_continue_statement_example.cpp)** - continue se iteration skip, toffee wala example
+16. **[Sum Odd 1 to n v1](./codes/L03_16_sum_odd_1_to_n_v1.cpp)** - for loop `i+=2` se odd sum
+17. **[Sum Odd 1 to n v2](./codes/L03_17_sum_odd_1_to_n_v2.cpp)** - for loop + `if(i%2!=0)` se odd sum
+18. **[Sum Even 1 to n](./codes/L03_18_sum_even_1_to_n.cpp)** - for loop se even numbers ka sum
+19. **[Sum 1 to n](./codes/L03_19_sum_1_to_n.cpp)** - for loop se 1 to n sum
+20. **[Ternary Statement](./codes/L03_20_ternary_statement.cpp)** - `?:` operator se positive/negative
+21. **[Switch Statement](./codes/L03_21_switch_statement.cpp)** - switch-case se grade check
+22. **[Prime Composite](./codes/L03_22_prime_composite.cpp)** - Number prime hai ya composite
+23. **[Nested Loops](./codes/L03_23_nested_loops.cpp)** - Pattern printing stars se
+24. **[Sum Div by 3 For](./codes/L03_24_sum_div_by_3_for.cpp)** - for loop se 3 se divisible numbers ka sum
+25. **[Sum Div by 3 While](./codes/L03_25_sum_div_by_3_while.cpp)** - while loop se 3 se divisible numbers ka sum
+26. **[Factorial](./codes/L03_26_factorial.cpp)** - for loop se N ka factorial
 
 ## 🖼️ Notes Images - Fast Revision
 
@@ -71,26 +72,29 @@
 ### 8. break Statement
 ![break Statement](./images/L03_08_break_statement.png)
 
-### 9. for Loop Practice
-![for Loop Practice](./images/L03_09_for_loop_practice.png)
+### 9. continue Statement
+![continue Statement](./images/L03_09_continue_statement.png)
 
-### 10. Ternary Statement
-![Ternary Statement](./images/L03_10_ternary_statement.png)
+### 10. for Loop Practice
+![for Loop Practice](./images/L03_10_for_loop_practice.png)
 
-### 11. Switch Statement
-![Switch Statement](./images/L03_11_switch_statement.png)
+### 11. Ternary Statement
+![Ternary Statement](./images/L03_11_ternary_statement.png)
 
-### 12. Prime or Composite
-![Prime or Composite](./images/L03_12_prime_composite.png)
+### 12. Switch Statement
+![Switch Statement](./images/L03_12_switch_statement.png)
 
-### 13. Nested Loops
-![Nested Loops](./images/L03_13_nested_loops.png)
+### 13. Prime or Composite
+![Prime or Composite](./images/L03_13_prime_composite.png)
 
-### 14. Sum Divisible by 3
-![Sum Divisible by 3](./images/L03_14_sum_divisible_by_3.png)
+### 14. Nested Loops
+![Nested Loops](./images/L03_14_nested_loops.png)
 
-### 15. Factorial
-![Factorial](./images/L03_15_factorial.png)
+### 15. Sum Divisible by 3
+![Sum Divisible by 3](./images/L03_15_sum_divisible_by_3.png)
+
+### 16. Factorial
+![Factorial](./images/L03_16_factorial.png)
 
 ## ⚙️ How to Run
 Code file se code copy karo, VS Code me paste karke Run karo.
